@@ -2,7 +2,7 @@ import SearchBar from "@/components/search-bar";
 
 export default function Home() {
   return (
-    <div className="min-h-screen w-full relative overflow-hidden h-screen bg-white backdrop-blur-lg bg-gradient-to-b from-[#bde0fe]/80 to-[#fdd1ae]/60 shadow-inner border-white">
+    <div className="w-full h-full overflow-hidden backdrop-blur-lg bg-[#F1F1F1] shadow-inner-sm">
       <div className="flex flex-col items-center justify-center h-full gap-16">
         <div className="flex flex-col items-center justify-center gap-2">
           <h1 className="text-6xl font-sans font-light text-gray-800">
